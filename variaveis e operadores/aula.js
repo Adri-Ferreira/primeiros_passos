@@ -31,4 +31,3 @@ const valorGasto = litrosConsumidos * precoCombustivel;
 //Exibir o valor gasto com 2 casas decimais
 console.log(valorGasto.toFixed(2));
 
-
