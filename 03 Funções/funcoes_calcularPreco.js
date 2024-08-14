@@ -11,7 +11,7 @@ Mais do que duas vezes, preço normal mais juros de 10%;
 */
 
 function aplicarDesconto(valor, desconto){
-    return
+    return precoProduto - (precoProduto * 0.10);
 }
 
 //Definir as variáveis
